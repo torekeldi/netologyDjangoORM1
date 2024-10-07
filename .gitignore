@@ -1,0 +1,4 @@
+.idea/
+.venv/
+main/__pycache__/
+phones/__pycache__/
